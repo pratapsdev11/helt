@@ -3,7 +3,7 @@ from nana_real import classify_nutrition_data
 from person_score import analyze_health_classification
 
 # Hugging Face API key and endpoint
-API_KEY = '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'
+API_KEY = 'use your own API'
 LLM_API_ENDPOINT = "https://api-inference.huggingface.co/models/roberta-large-mnli"
 
 # Function to classify the overall food recommendation based on person and food classifications
