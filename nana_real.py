@@ -1,7 +1,7 @@
 import requests
 
 # Hugging Face API key
-API_KEY = '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'
+API_KEY = 'use your own api-key'
 
 # Hugging Face model endpoint for classification
 BART_ENDPOINT = "https://api-inference.huggingface.co/models/facebook/bart-large-mnli"
